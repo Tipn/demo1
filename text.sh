@@ -1,2 +1,3 @@
-touch drlme
-:
+#!/bin/bash
+
+echo "hello Pavel!"
